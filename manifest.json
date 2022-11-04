@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-github-sync",
+  "name": "Github Sync",
+  "minAppVersion": "1.0.0",
+  "description": "Easily pull changes from your GitHub hosted vault",
+  "author": "Florian Pallas",
+  "authorUrl": "https://github.com/FlorianPallas/obsidian-github-sync",
+  "isDesktopOnly": false,
+  "version": "0.1.0"
+}
